@@ -1,5 +1,6 @@
 import React from 'react';
 import smoothScroll from 'smoothscroll-polyfill';
+import { ProjectCard } from './index.js';
 import 'assets/scss/index.scss';
 
 class Projects extends React.Component {
