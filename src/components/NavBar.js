@@ -1,6 +1,6 @@
 import React from 'react';
 import smoothScroll from 'smoothscroll-polyfill';
-import 'css/index.scss';
+import 'assets/scss/index.scss';
 
 class Navbar extends React.Component {
   constructor(props) {
@@ -25,7 +25,7 @@ class Navbar extends React.Component {
   render() {
     return (
       <nav className="navbar" ref="navbar">
-        <a href="https://justinchi.me">Home</a>
+        <a href="https://izzykeanu.com">Home</a>
         <a href="#projects">Projects</a>
         <a href="#contact">Contact</a>
       </nav>
@@ -33,4 +33,5 @@ class Navbar extends React.Component {
   }
 }
 
-export default Navbar;
+// export default Navbar;
+export { Navbar };
