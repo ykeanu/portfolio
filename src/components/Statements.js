@@ -1,3 +1,7 @@
+import React from 'react';
+import smoothScroll from 'smoothscroll-polyfill';
+import 'assets/scss/index.scss';
+
 class Statements extends React.Component {
   render() {
     return (
@@ -14,3 +18,6 @@ class Statements extends React.Component {
     );
   }
 }
+
+// export default Statements;
+export { Statements };
