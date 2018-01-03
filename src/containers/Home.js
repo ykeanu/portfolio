@@ -24,7 +24,7 @@
 
 import React from 'react';
 import smoothScroll from 'smoothscroll-polyfill';
-import { enterAR, disableHunt, indicateInsidePortal } from '../../actions';
+import { Navbar, Hero, About, Projects, ContactLinks, Footer } from '../components';
 import 'assets/scss/index.scss';
 
 export default class Home extends React.Component {
