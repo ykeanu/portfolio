@@ -1,4 +1,4 @@
-export * from './NavBar';
+export * from './Navbar';
 export * from './Hero';
 export * from './About';
 export * from './Statements';
@@ -9,3 +9,5 @@ export * from './ProjectSkills';
 export * from './ProjectSkill';
 export * from './ProjectLinks';
 export * from './ProjectLink';
+export * from './ContactLinks';
+export * from './Footer';

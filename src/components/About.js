@@ -1,7 +1,7 @@
 import React from 'react';
 import smoothScroll from 'smoothscroll-polyfill';
-import { Statements } from 'index.js';
-import 'assets/scss/index.scss';
+import { Statements } from './Statements';
+import '../assets/scss/index.scss';
 
 class About extends React.Component {
   render() {

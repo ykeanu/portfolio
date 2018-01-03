@@ -1,7 +1,7 @@
 import React from 'react';
 import smoothScroll from 'smoothscroll-polyfill';
 import { ProjectLink } from './index.js';
-import 'assets/scss/index.scss';
+import '../assets/scss/index.scss';
 
 class ProjectLinks extends React.Component {
   render() {

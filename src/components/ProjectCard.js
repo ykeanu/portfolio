@@ -1,7 +1,7 @@
 import React from 'react';
 import smoothScroll from 'smoothscroll-polyfill';
 import { ProjectSkills, ProjectLinks } from './index.js';
-import 'assets/scss/index.scss';
+import '../assets/scss/index.scss';
 
 class ProjectCard extends React.Component {
   componentDidMount() {

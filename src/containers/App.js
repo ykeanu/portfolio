@@ -8,7 +8,7 @@ class App extends Component {
     return (
       <div className="App">
         {this.props.children}
-        <Home projects={projects} statements={statements}/>
+        <Home projects={projectDetails} statements={statements}/>
       </div>
     );
   }

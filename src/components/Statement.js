@@ -1,6 +1,6 @@
 import React from 'react';
 import smoothScroll from 'smoothscroll-polyfill';
-import 'assets/scss/index.scss';
+import '../assets/scss/index.scss';
 
 class Statement extends React.Component {
   render() {
