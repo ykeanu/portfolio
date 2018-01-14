@@ -1,4 +1,4 @@
-# Izzy Keanu | Portfolio
+Portfolio | Izzy Keanu
 My portfolio is a full-stack web application built with React (Javascript ES6/ES7), webpack, babel, node.js, and express. Ranging from augmented-reality mobile applications to full-stack (MERN) websites, my passions can be seen in my personal projects. Come check out my work!
 
 ## Live Link
